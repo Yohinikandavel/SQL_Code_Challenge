@@ -46,15 +46,7 @@ Practice SQL querying with JOIN, GROUP BY, HAVING, SUBQUERY, LEFT JOIN
 
 Understand job board data handling and applicant tracking logic
 
-📚 File Structure
-
-CareerHub/
-├── CareerHub.sql          # SQL script with schema, data, and queries
-├── CareerHub.docx         # Project documentation
-├── README.md              # GitHub readme file
-└── screenshots/           # Folder for storing query result images
-🤝 Contributions
-Pull requests are welcome. If you'd like to contribute, please fork the repo and submit a PR.
+---
 
 📧 Contact
 Author: Yohini K
